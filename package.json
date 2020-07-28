@@ -1,19 +1,19 @@
 {
-  "name": "rn-esteban-text",
+  "name": "rn-esteban-image",
   "version": "0.1.0",
-  "description": "React native text sistem",
+  "description": "React native image ui component",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/barinascode/rn-esteban-text.git"
+    "url": "git+https://github.com/barinascode/rn-esteban-image.git"
   },
   "author": "Leonardo Tapia <barinas.code@gmail.com> (https://solucionesinformaticasbarinas.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/barinascode/rn-esteban-text/issues"
+    "url": "https://github.com/barinascode/rn-esteban-image/issues"
   },
-  "homepage": "https://github.com/barinascode/rn-esteban-text#readme"
+  "homepage": "https://github.com/barinascode/rn-esteban-imaget#readme"
 }
