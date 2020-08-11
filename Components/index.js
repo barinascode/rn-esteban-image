@@ -36,12 +36,6 @@ function index(props){
     }
 
 
-    let onPressHandler =  ()=>{}
-
-    if(props.onPressHandler)
-        onPressHandler = props.onPressHandler
-
-
     return ( <Image
         style={styles}
         source={{
